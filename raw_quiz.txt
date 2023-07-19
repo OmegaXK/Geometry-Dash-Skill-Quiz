@@ -2,6 +2,8 @@ Geometry Dash Skill Quiz
 Quiz by Acer Of Dragons
 File created by Omega_XK
 
+
+
 Question 1: How many stars do you have?
 
 0-50: 5 points  51-100: 10 points  101-300: 20 points   300-500: 25 points   501-700: 30 points
