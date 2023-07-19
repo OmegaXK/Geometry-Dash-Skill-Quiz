@@ -1,1 +1,1 @@
-# Geometry-Dash-Skill-Quiz
+# Geometry Dash Skill Quiz
